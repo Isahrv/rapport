@@ -10,7 +10,7 @@ output: html_document
 ---
 
 # Installation de firstlib
-```{r}
+```{r, echo = FALSE}
 #remotes::install_github("Isahrv/firstlib-isaline")
 ```
 
